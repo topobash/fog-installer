@@ -1,49 +1,49 @@
 # 🚀 FOG Project Automatic Installer (Ubuntu Server 22.04)
 
-This repository contains a fully automated Bash script to install **FOG Project** on a fresh **Ubuntu Server 22.04** system.  
-The script installs all required dependencies and runs the official FOG installer automatically.
+Repository ini berisi script Bash otomatis untuk meng-install **FOG Project** di **Ubuntu Server 22.04** yang baru selesai dipasang.  
+Script ini bakal install semua kebutuhan FOG dan langsung menjalankan installer resminya.
 
-FOG Project is an open-source solution for:
-- Disk imaging  
-- System deployment  
-- PXE boot environments  
-- Inventory & remote management  
-
----
-
-## 📌 Features
-
-- ✔ Automatically installs all required packages  
-- ✔ Clones the official FOG Project repository  
-- ✔ Runs FOG installer in non-interactive mode  
-- ✔ Designed for **fresh installations of Ubuntu Server 22.04**  
-- ✔ Simple: only **one command** to start installing  
+FOG Project sendiri adalah solusi open-source untuk:
+- Imaging / cloning sistem  
+- Deployment massal  
+- PXE booting  
+- Inventarisasi & remote management perangkat  
 
 ---
 
-## 📦 Requirements
+## 📌 Fitur
 
-- Ubuntu Server **22.04** (fresh installation recommended)
-- Root access (`sudo -i`)
-- Internet connection
-- Network interface properly configured (static IP recommended)
+- ✔ Install otomatis semua paket yang dibutuhkan  
+- ✔ Clone repository resmi FOG Project  
+- ✔ Menjalankan installer FOG dalam mode semi-otomatis  
+- ✔ Cocok untuk **Ubuntu Server 22.04 yang fresh**  
+- ✔ Cukup **satu script** buat mulai install  
 
 ---
 
-## 🛠 Installation
+## 📦 Yang Dibutuhkan
 
-### 1. Clone this repository
+- Ubuntu Server **22.04** (disarankan fresh install)
+- Akses root (`sudo -i`)
+- Koneksi internet
+- Network interface sudah diset (disarankan pakai IP statis)
+
+---
+
+## 🛠 Cara Install
+
+### **1. Clone repository ini**
 ```bash
 git clone https://github.com/topobash/fog-installer.git
 cd fog-installer
 ```
 
-### 2. Make the script executable
+### 2. Beri permission execute
 ```bash
 chmod +x fog_installer.sh
 ```
 
-### 3. Run the installer
+### 3. Jalankan installer
 ```bash
 sudo ./fog_installer.sh
 ```
