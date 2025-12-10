@@ -34,5 +34,5 @@ FOG Project is an open-source solution for:
 
 ### 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/fog-installer.git
+git clone https://github.com/topobash/fog-installer.git
 cd fog-installer
