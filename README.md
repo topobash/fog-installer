@@ -44,3 +44,4 @@ chmod +x fog_installer.sh
 ### 3. Run the installer
 ```bash
 sudo ./fog_installer.sh
+
