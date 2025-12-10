@@ -50,9 +50,9 @@ sudo ./fog_installer.sh
 
 ---
 
-## 🌐 After Installation
+## 🌐 Setelah Instalasi
 
-### Open a browser and navigate to:
+### Buka browser lalu akses:
 ```bash
 http://<server-ip>/fog/management
 ```
