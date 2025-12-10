@@ -1,7 +1,7 @@
 # 🚀 FOG Project Automatic Installer (Ubuntu Server 22.04)
 
-Repository ini berisi script Bash otomatis untuk meng-install **FOG Project** di **Ubuntu Server 22.04** yang baru selesai dipasang.  
-Script ini bakal install semua kebutuhan FOG dan langsung menjalankan installer resminya.
+Repository ini berisi script Bash otomatis untuk meng-install **FOG Project** di **Ubuntu Server 22.04**.  
+Script ini akan meng-install semua kebutuhan FOG dan langsung menjalankan installer resminya.
 
 FOG Project sendiri adalah solusi open-source untuk:
 - Imaging / cloning sistem  
