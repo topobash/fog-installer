@@ -36,14 +36,14 @@ FOG Project is an open-source solution for:
 ```bash
 git clone https://github.com/topobash/fog-installer.git
 cd fog-installer
-
----
+```
 
 ### 2. Make the script executable
 ```bash
 chmod +x fog_installer.sh
+```
 
 ### 3. Run the installer
 ```bash
 sudo ./fog_installer.sh
-
+```
