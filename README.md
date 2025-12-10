@@ -47,3 +47,12 @@ chmod +x fog_installer.sh
 ```bash
 sudo ./fog_installer.sh
 ```
+
+---
+
+## 🌐 After Installation
+
+### Open a browser and navigate to:
+```bash
+http://<server-ip>/fog/management
+```
