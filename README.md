@@ -56,3 +56,7 @@ sudo ./fog_installer.sh
 ```bash
 http://<server-ip>/fog/management
 ```
+---
+## ❤️ Dukungan Proyek
+Jika Anda ingin mendukung pengembangan:
+👉 Saweria: https://saweria.co/namaprojek
